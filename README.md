@@ -4,7 +4,7 @@ This is the final project to be completed from the PowerBI series of the bootcam
 <br>
 <br/>
 ## Problem Statement
-The data was analyzed to provide answersnto the following questions:
+The data was analyzed to provide answers to the following questions:
 1. What's the average salary of the survey participants by their current job title?
 2. How many participants do we have from different countries?
 3. What's the most favorite programming language of participants by their current job title?
@@ -16,11 +16,14 @@ The data was analyzed to provide answersnto the following questions:
 
 <br>
 <br/>
-## Methodology
-The dataset was loaded, transformed, and visualized in PowerBI.
+
+## Methodology <br/>
+The dataset was loaded, transformed, and visualized in PowerBI Desktop.
 <br>
 <br/>
-## Visualization
-The one-page report was generated on PowerBI with its interactive features.
 
+## Visualization <br/>
+The one-page report was generated on PowerBI with its interactive features. You may download and open the "survey_dashboard.pbix" file or you can interact with the dashboard [here]()
+<br>
+<br/>
 ![survey_analysis_dashboard](https://github.com/user-attachments/assets/e6987001-5732-4811-96e0-d41747e54f3c)
