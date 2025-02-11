@@ -1,6 +1,6 @@
 ## Introduction
 A survey dataset of data professionals was analyzed with PowerBI Desktop to generate interesting reports and uncover meaningful insights.
-This is the final project to be completed from the PowerBI series of the bootcamp.
+This is the final project to be completed from the PowerBI series of Ale bootcamp.
 <br>
 <br/>
 ## Problem Statement
@@ -23,7 +23,13 @@ The dataset was loaded, transformed, and visualized in PowerBI Desktop.
 <br/>
 
 ## Visualization <br/>
-The one-page report was generated on PowerBI with its interactive features. You may download and open the "survey_dashboard.pbix" file or you can interact with the dashboard [here]()
+The one-page report was generated on PowerBI with its interactive features. You may download and open the "survey_dashboard.pbix" file or you can interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/90d23ecc-56b2-4743-aaa1-d39900b0559c/9e821a38616ca20a0003?experience=power-bi)
 <br>
 <br/>
 ![survey_analysis_dashboard](https://github.com/user-attachments/assets/e6987001-5732-4811-96e0-d41747e54f3c)
+<br>
+<br/>
+
+## Summary and Conclusion <br/>
+The majority of survey participants are data analysts, and while they report a good work-life balance, their salary satisfaction is notably lower compared to data scientists. Python and R are widely used across all data professions, with Python emerging as the most popular, favored by 67% of respondents.
+Data-related professions are becoming increasingly popular, with many respondents having transitioned into these careers.
