@@ -18,7 +18,7 @@ The data was analyzed to provide answers to the following questions:
 <br/>
 
 ## Methodology <br/>
-The dataset was loaded, transformed, and visualized in PowerBI Desktop.
+The dataset was transformed, analyzed, and visualized in PowerBI Desktop.
 <br>
 <br/>
 
