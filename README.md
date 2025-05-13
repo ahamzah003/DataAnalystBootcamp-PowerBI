@@ -23,7 +23,7 @@ The dataset was loaded, transformed, and visualized in PowerBI Desktop.
 <br/>
 
 ## Visualization <br/>
-The one-page report was generated on PowerBI with its interactive features. You may download and open the "survey_dashboard.pbix" file or you can interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/90d23ecc-56b2-4743-aaa1-d39900b0559c/9e821a38616ca20a0003?experience=power-bi)
+The one-page report was generated on PowerBI with its interactive features. You may download and open the "survey_dashboard.pbix" file or you can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMDM4Mjc3MTktMjI3Mi00NThhLTkyMGUtZTQwM2Q2MmIxNmJiIiwidCI6IjJjYmNlZTZmLWU1OWYtNGQ3My05NjllLTBlMTg3Mjg5N2VmNyJ9)
 <br>
 <br/>
 ![survey_analysis_dashboard](https://github.com/user-attachments/assets/e6987001-5732-4811-96e0-d41747e54f3c)
